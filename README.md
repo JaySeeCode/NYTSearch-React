@@ -1,7 +1,6 @@
 # NYTSearch-React
 An online application that searches for articles on The New York Times,<br>
 displays them to the user, and allows him or her to save and delete them.<br>
-<brdiuhdj
 The following technologies are used:<br>
 <h4>Front End</h4>
 <ul>
@@ -9,8 +8,9 @@ The following technologies are used:<br>
 </ul>
 <br>
 <h4>Back End</h4>
-<ul>dehd
-<li>Node.js</li>S
-<li>Express</li>
-<li>MongoDB</li>
+<ul>
+<li>Server</li>
+<blockquote><li>Node.js and Express</li></blockquote>
+<li>Database</li>
+<blockquote><li>MongoDB (and Mongoose as ODM)</li></blockquote>
 </ul>
