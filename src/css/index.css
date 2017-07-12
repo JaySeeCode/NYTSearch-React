@@ -1,0 +1,4 @@
+/* Apply CSS across the whole document. */
+html, body {
+    background-color: #dddddd;
+}
