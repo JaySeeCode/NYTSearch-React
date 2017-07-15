@@ -1,0 +1,10 @@
+.center-dis{
+  margin: auto !important;
+  width: 60%;
+}
+
+.input-field {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
